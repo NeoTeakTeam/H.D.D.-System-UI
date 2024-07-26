@@ -1,0 +1,22 @@
+@import url(btn.css);
+
+body {
+    background: url(../images/bg.png) no-repeat;
+    background-size: 100%;
+}
+
+.abs {
+    position: absolute;
+}
+
+.main {
+    display: grid;
+}
+
+.pw {
+    transition: width 1s cubic-bezier(0.17, 0.37, 0.61, 0.87);
+}
+
+.hid {
+    visibility: hidden;
+}

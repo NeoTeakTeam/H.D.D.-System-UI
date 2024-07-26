@@ -1,0 +1,102 @@
+.btn-nm {
+    text-decoration: none;
+    color: #fff;
+    font-size: 24px;
+    
+    width: 400px;
+    text-align: center;
+
+    background: black;
+
+    border: solid 5px;
+    border-radius: calc(Infinity * 1px);
+    padding: 15px;
+    margin: 5px;
+}
+
+.btn-nm:hover {
+    background: #1fab05;
+}
+
+.btn-nm:active {
+    background: greenyellow;
+    color: black;
+}
+
+
+.btn-pw {
+    text-decoration: none;
+    color: #fff;
+    font-size: 24px;
+    
+    width: 400px;
+    text-align: center;
+
+    background: black;
+
+    border: solid 5px;
+    border-radius: calc(Infinity * 1px);
+    padding: 15px;
+    margin: 5px;
+}
+
+.btn-pw:hover {
+    background: #ab1f05;
+}
+
+.btn-pw:active {
+    background: red;
+    color: black;
+}
+
+
+.btn-st {
+    text-decoration: none;
+    color: #fff;
+    font-size: 24px;
+    
+    width: 50px;
+    text-align: center;
+
+    background: black;
+
+    border: solid 5px;
+    border-radius: calc(Infinity * 1px);
+    padding: 15px;
+    margin: 5px;
+}
+
+.btn-st:hover {
+    background: #ab1f05;
+}
+
+.btn-st:active {
+    background: red;
+    color: black;
+}
+
+
+.btn-ct {
+    text-decoration: none;
+    color: #fff;
+    font-size: 24px;
+    
+    width: 50px;
+    text-align: center;
+
+    background: black;
+
+    border: solid 5px;
+    border-radius: calc(Infinity * 1px);
+    padding: 15px;
+    margin: 5px;
+}
+
+.btn-ct:hover {
+    background: #1fab05;
+}
+
+.btn-ct:active {
+    background: greenyellow;
+    color: black;
+}

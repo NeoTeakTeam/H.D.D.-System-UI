@@ -1,0 +1,23 @@
+@font-face {
+    font-family: "HDD";
+    src: url("../fonts/black.ttf");
+}
+
+@font-face {
+    font-family: "Code";
+    src: url("../fonts/CaskaydiaCoveNF.ttf");
+}
+
+body {
+    background-color: black;
+    color: white;
+    font-family: "HDD";
+
+    display: grid;
+}
+
+.ifr {
+    border: none;
+    width: 100%;
+    height: 530px;
+}
