@@ -12,6 +12,7 @@ document.getElementById("pw").addEventListener("click", function (event) {
     this.offsetWidth;
     this.style.width = "200px";
 });
+// 勾石UI界面
 
 
 document.getElementById("ct").addEventListener("click", function (event) {
